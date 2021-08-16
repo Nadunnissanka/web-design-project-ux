@@ -1,0 +1,22 @@
+@import "_colors";
+
+/* assign colors inside this file */
+.nav-container{
+    background: $primary-color;
+    header{
+        a{
+            color: $white-color;
+        }
+        .logo{
+            color: $tertiary-color;
+        }
+    }
+}
+.hero{
+    background: $secondery-color;
+    color: $white-color;
+
+    .meet{
+        color: $quaternary-color;
+    }
+}
