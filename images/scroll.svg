@@ -1,9 +1,0 @@
-<svg width="46" height="79" viewBox="0 0 46 79">
-  <g id="scroll" transform="translate(-300 -658)">
-    <g id="scroll-border" transform="translate(300 658)" fill="none" stroke="#fff" stroke-width="6">
-      <rect width="46" height="79" rx="23" stroke="none"/>
-      <rect x="3" y="3" width="40" height="73" rx="20" fill="none"/>
-    </g>
-    <circle id="scroll-ball" cx="11.5" cy="11.5" r="11.5" transform="translate(312 668)" fill="#fff"/>
-  </g>
-</svg>
